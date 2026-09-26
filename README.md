@@ -1,2 +1,2 @@
 # thinklab_junior
-Thinklab junior
+ThinkLab_Junior_V2_2_Analytics
